@@ -1,0 +1,94 @@
+#title{
+    background-color: #A5DD9B;
+    color:darkorange;
+}
+h1{
+    font-family: sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    color: chartreuse;
+    margin-left: -30px;
+}
+h2{
+  font-size: 2.5rem;
+}
+.container-fluid{
+    padding: 2% 20%;
+}
+.navbar-brand{
+    font-size: 4rem;
+    font-weight: 100;
+}
+.btn btn-primary{
+    font-size: 4rem;
+
+}
+.btn btn-info button inline{
+    padding:2% 2% 2% 0% ;
+    margin-left: 2%;
+    margin-top: 5%;
+}
+.title-image{
+    width: 70%;
+    transform: rotate(25deg);
+}
+#features{
+    padding: 7% 15%;
+}
+.icon:hover{
+  color:#35374B;
+}
+
+#testimonials{
+  background-color: #A5DD9B;
+  text-align: center;
+  padding: 2% 20%;
+  color: #fff;
+  font-family: "Ubuntu";
+
+}
+.testimonial-image{
+  width: 25%;
+  border-radius: 50%;
+  margin: 3%;
+
+}
+#press{
+  background-color:#A5DD9B;
+  text-align:center;
+  padding-bottom: 5%;
+}
+.img{
+  align-items: center;
+}
+.text{
+  color: #35374B;
+}
+.icon{
+  text-align: center;
+  color:#ef8172;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+.press-logo{
+  width: 16%;
+  margin: 20px 20px 20px 20px;
+}
+body{
+ font-family:inherit;
+}
+#pricing{
+  text-align: center;
+  padding: 70px;
+
+}
+.card-deck{
+
+}
+#cta{
+  text-align:center;
+}
+#footer{
+  text-align: center;
+}
